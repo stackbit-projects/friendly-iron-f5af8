@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 seo:
   title: About Me
-  description: A page about me and my work
+  description: I am blah
   extra:
     - name: 'og:type'
       value: website
